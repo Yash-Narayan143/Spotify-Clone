@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" id="play">
+  <!-- Circle background with green fill -->
+  <circle cx="24" cy="24" r="24" fill="#1abc54"/>
+  
+  <!-- Play icon -->
+  <path fill="#000" d="M16 10v28l22-14z"/>
+  
+  <!-- Optional: Add transparent rect to avoid clipping if needed -->
+  <path fill="none" d="M0 0h48v48H0z"></path>
+</svg>
